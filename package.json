@@ -1,0 +1,22 @@
+{
+  "name": "playcanvas-update-fn",
+  "version": "1.0.0",
+  "description": "PlayCanvas extension to all a function to be called every update cycle until it returns `false`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whydoidoit/update.git"
+  },
+  "keywords": [
+    "PlayCanvas"
+  ],
+  "author": "Mike Talbot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whydoidoit/update/issues"
+  },
+  "homepage": "https://github.com/whydoidoit/update#readme"
+}
